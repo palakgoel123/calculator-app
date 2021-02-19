@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="buAC" type="id" />
+    <item name="bupower2" type="id" />
+    <item name="budivide" type="id" />
+    <item name="bumultiply" type="id" />
+    <item name="bu7" type="id" />
+    <item name="bu8" type="id" />
+    <item name="bu9" type="id" />
+    <item name="bu4" type="id" />
+    <item name="bu5" type="id" />
+    <item name="bu6" type="id" />
+    <item name="bu3" type="id" />
+    <item name="bu1" type="id" />
+    <item name="bu2" type="id" />
+    <item name="buplus" type="id" />
+    <item name="buminus" type="id" />
+    <item name="bupercentage" type="id" />
+    <item name="bu0" type="id" />
+    <item name="budot" type="id" />
+    <item name="buequal" type="id" />
+
+
+</resources>
